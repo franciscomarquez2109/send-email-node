@@ -1,0 +1,11 @@
+{
+  "name": "sendemail",
+  "version": "1.0.0",
+  "description": "Envio de mensaje por correo electronico",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Marquez",
+  "license": "ISC"
+}

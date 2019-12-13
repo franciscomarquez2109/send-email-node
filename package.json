@@ -4,8 +4,13 @@
   "description": "Envio de mensaje por correo electronico",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "author": "Francisco Marquez",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.2",
+    "nodemon": "^2.0.2"
+  }
 }
